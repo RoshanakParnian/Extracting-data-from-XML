@@ -1,5 +1,7 @@
 ...
-This program can take URL from users that we provide two kinds of sample codes for testing  .
+The program will prompt for a URL, read the XML data from that URL , using urllib and then parse and extract the comment counts from the XML data, 
+compute the sum of the numbers in the file and enter the sum and avg .
+We provide two kinds of sample codes for testing  .
 ...
 Sample data: http://py4e-data.dr-chuck.net/comments_42.xml (Sum=2553)
 Actual data: http://py4e-data.dr-chuck.net/comments_1641435.xml (Sum ends with 45)
